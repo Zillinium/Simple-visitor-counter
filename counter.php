@@ -21,8 +21,32 @@ Description:
    EXAMPLE USAGE CODE
     <script type="text/javascript" src="counter.php?show=this"></script>
     
-   You MUST have read/write permissions on files
+    
+   OPTIONAL .HTACCESS .PHP REMOVAL
+    Add to .htaccess file 
+    
+# PHP REMOVAL - HUP.php becomes HUP 
+# EXAMPLE : HUP?url=http... over HUP.php?url=
+#
+RewriteRule ^([^.?]+)$ %{REQUEST_URI}.php [L]
+#
+# RETURN 404 IF REQUEST IS .PHP
+#
+RewriteCond %{THE_REQUEST} "^[^ ]* .*?\.php[? ].*$"
+RewriteRule .* - [L,R=404]
+#
 
+IF YOU USE HTACCESS, This method sometimes has unexpected results when used with other .htaccess RewriteRule's
+also the new example usage would become,
+
+EXAMPLE USAGE CODE
+    <script type="text/javascript" src="counter?show=this"></script>
+    
+    
+    
+    
+   You MUST have read/write permissions on files 
+   
 Script refined for html support by : 
 Zillinium : http://facebook.com/Zillinium
  
