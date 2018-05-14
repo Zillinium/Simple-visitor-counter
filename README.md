@@ -9,6 +9,11 @@ INSTALLING INFO
    - You can access it from <script> with GET 'show=this'
    - this way the script can be included in .html files also.
    
-   EXAMPLE USAGE CODE
-    <script type="text/javascript" src="simPHP.php?show=this"></script>
+   EXAMPLE USAGE CODE   
    
+    <script type="text/javascript" src="counter.php?show=this"></script> 
+   
+    
+     
+Original PHP Script (simPHP) by Ajay: me@ajay.ga
+
