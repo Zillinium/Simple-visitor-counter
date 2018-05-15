@@ -42,6 +42,8 @@ also the new example usage would become,
 EXAMPLE USAGE CODE
     <script type="text/javascript" src="counter?show=this"></script>
     
+   For more .htaccess tweaks https://pastebin.com/6FxeZwna
+    
     
     
     
