@@ -18,7 +18,8 @@ INSTALLING INFO
     
     EXAMPLE USAGE CODE BECOMES   
     
-    <script type="text/javascript" src="counter?show=this"></script> 
+    <script type="text/javascript" src="counter?show=this"></script>    
+    
    
 Original PHP Script (simPHP) by Ajay: me@ajay.ga
 
