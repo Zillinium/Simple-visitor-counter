@@ -4,8 +4,9 @@ A simple one page PHP visitor counter
 INSTALLING INFO 
    - Copy counter.php to desired path on website
    - Make a counter.txt file in the same path as this
-   file, it will be used for the log... It'll be created 
-   if it doesn't exist
+   file, this will be used for the log... 
+   
+   ( It'll be generated if not found.)
 
    - You can access it from <script> with GET 'show=this'
    - this way the script can be included in .html files also.
