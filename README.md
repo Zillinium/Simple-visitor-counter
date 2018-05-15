@@ -25,5 +25,7 @@ INSTALLING INFO
     <script type="text/javascript" src="counter?show=this"></script>    
     
    
-Original PHP Script (simPHP) by Ajay: me@ajay.ga
+Original PHP Script (simPHP) by Ajay: me@ajay.ga    
+
+https://github.com/ajay-gandhi/simphp
 
