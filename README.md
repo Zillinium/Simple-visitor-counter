@@ -1,6 +1,8 @@
 # Simple-visitor-counter
 A simple one page PHP visitor counter
 
+  
+  
 INSTALLING INFO 
    - Copy counter.php to desired path on website
    - Make a counter.txt file in the same path as this
@@ -13,6 +15,8 @@ INSTALLING INFO
      
     this way the script can be included in .html files also.
    
+     
+     
    EXAMPLE USAGE CODE   
    
     <script type="text/javascript" src="counter.php?show=this"></script>   
@@ -24,8 +28,11 @@ INSTALLING INFO
     
     <script type="text/javascript" src="counter?show=this"></script>    
     
-   
-Original PHP Script (simPHP) by Ajay: me@ajay.ga    
+    
+Original PHP Script (simPHP) by Ajay: me@ajay.ga     
+ 
+  
+  
 
 https://github.com/ajay-gandhi/simphp
 
