@@ -11,8 +11,9 @@ INSTALLING INFO
    
    EXAMPLE USAGE CODE   
    
-    <script type="text/javascript" src="counter.php?show=this"></script> 
-   
+    <script type="text/javascript" src="counter.php?show=this"></script>   
+    
+       
     For .htAccess tweaks to remove .php https://pastebin.com/6FxeZwna
     
     EXAMPLE USAGE CODE BECOMES 
