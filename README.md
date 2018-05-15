@@ -8,8 +8,10 @@ INSTALLING INFO
    
    ( It'll be generated if not found.)
 
-    You can access counter.php from <script> with GET 'show=this'
-    this way the script can be included in .html files also.
+    You can access counter.php from <script> with GET 'show=this' 
+     
+     
+    this way the script can be included in .html files also.
    
    EXAMPLE USAGE CODE   
    
