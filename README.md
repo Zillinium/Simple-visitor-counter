@@ -16,7 +16,8 @@ INSTALLING INFO
        
     For .htAccess tweaks to remove .php https://pastebin.com/6FxeZwna
     
-    EXAMPLE USAGE CODE BECOMES 
+    EXAMPLE USAGE CODE BECOMES   
+    
     <script type="text/javascript" src="counter?show=this"></script> 
    
 Original PHP Script (simPHP) by Ajay: me@ajay.ga
