@@ -13,7 +13,10 @@ INSTALLING INFO
    
     <script type="text/javascript" src="counter.php?show=this"></script> 
    
-    
-     
+    For .htAccess tweaks to remove .php https://pastebin.com/6FxeZwna
+    
+    EXAMPLE USAGE CODE BECOMES 
+    <script type="text/javascript" src="counter?show=this"></script> 
+   
 Original PHP Script (simPHP) by Ajay: me@ajay.ga
 
